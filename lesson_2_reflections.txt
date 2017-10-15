@@ -21,3 +21,8 @@ How do the diagrams help you visualize the branch structure?
 
 For starters, it helps comprehend why "branches" are called that.
 It also helps make sense on where certain commits are "stored" in a repository, and why some might be easier or harder to access than others. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It includes all changes made in both branches, both additions and deletions. 
+It's represented the way it is to indicate that all commits from both previous branches are reachable from the newly merged commit.
