@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it? 
+Initializing a repository adds a hidden .git folder to store new commits and other metadata.
+You need to do this because, unless you're cloning a previous repository, you have no way of storing previous commits, and your work won't be recognized as a git repository. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers? 
+
+The staging area is an intermediate area between the working directory and the repository. It allows you to pick and choose which files you'd like to commit, rather than having to commit them all at once. 
