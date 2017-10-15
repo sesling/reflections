@@ -26,3 +26,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 It includes all changes made in both branches, both additions and deletions. 
 It's represented the way it is to indicate that all commits from both previous branches are reachable from the newly merged commit.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually? 
+
+Pros: faster, don't need to worry about human error.
+Cons: conflicts will still need to be manually resolved.
