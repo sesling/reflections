@@ -19,3 +19,10 @@ A branch is just a path of commits within a repository.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It makes resolving conflicts between the local and GitHub branches more straightforward. 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I suppose I would be forced to either exchange emails, which would be 
+	messy and inefficient, or use something like GoogleDocs, which isn't 
+	built with coding in mind. On the plus side, I wouldn't have to learn
+	how to use those methods, as I'm already familier with them.
