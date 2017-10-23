@@ -26,3 +26,11 @@ I suppose I would be forced to either exchange emails, which would be
 	messy and inefficient, or use something like GoogleDocs, which isn't 
 	built with coding in mind. On the plus side, I wouldn't have to learn
 	how to use those methods, as I'm already familier with them.
+
+When would you want to make changes in a seperate branch rather than directly in master? What benefits does each approach have?
+
+It allows others to look over your changes and make sure they're 
+	appropriate to merge into the master branch. This makes sure everyone 
+	is on the same page with regards to what's been updated. It also allows you to keep your own personal master branch synched with the
+	one on GitHub.
+	The downside to this is it's slightly more complicated and involved than just merging in every time. 
